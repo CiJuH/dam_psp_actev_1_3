@@ -9,11 +9,11 @@ Se recomienda ver los vídeos en este orden:
 
 1. **Vídeo Explicativo en Java**
 - Explica el funcionamiento de los hilos, el lock, la lista de pedidos y el log.
-- [Ver vídeo Java](https://pro2fp-my.sharepoint.com/:v:/g/personal/c_jurado_pro2fp_es/EdO_KqyJ2kxAsNRKaDJ_J3QBKB7UdlyBcZBS7MCA2xWlLA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=h9tFxd)
+- [Ver vídeo Java](https://pro2fp-my.sharepoint.com/:v:/g/personal/c_jurado_pro2fp_es/EdO_KqyJ2kxAsNRKaDJ_J3QBXX5JOh6zs27TpUFxr_-_WA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xmWUeM)
 
 2. **Vídeo explicativo en Python**
 - Muestra la misma lógica implementada en Python, con hilos y lock.
-- [Ver vídeo Python](https://pro2fp-my.sharepoint.com/:v:/g/personal/c_jurado_pro2fp_es/EdO_KqyJ2kxAsNRKaDJ_J3QBpHlDgzV_p0O17hiXwUimDQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xMiuTL)
+- [Ver vídeo Python](https://pro2fp-my.sharepoint.com/:v:/g/personal/c_jurado_pro2fp_es/EecwTaAlesBKuh_0vgMdYYcBO5aAzvlxEzd6diy20ETRvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wP2kHG)
 
 ---
 
