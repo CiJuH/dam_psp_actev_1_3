@@ -9,7 +9,7 @@ Se recomienda ver los vídeos en este orden:
 
 1. **Vídeo Explicativo en Java**
 - Explica el funcionamiento de los hilos, el lock, la lista de pedidos y el log.
-- [Ver vídeo Java]()
+- [Ver vídeo Java](https://pro2fp-my.sharepoint.com/:v:/g/personal/c_jurado_pro2fp_es/EdO_KqyJ2kxAsNRKaDJ_J3QBWlg2cLd4Er8hA8_lpSiCIg?e=6xG5Mi)
 
 2. **Vídeo explicativo en Python**
 - Muestra la misma lógica implementada en Python, con hilos y lock.
